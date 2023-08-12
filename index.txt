@@ -1,8 +1,1 @@
-hello world txt!
-
-<<<<<<< HEAD
-
-changed!123
-=======
-githup change
->>>>>>> ead42d6725e2863485bad7e30b21d6694c117f70
+dieno
